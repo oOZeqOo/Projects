@@ -1,0 +1,8 @@
+=======What can the personal assistant do?=======
+
+The personal assistant can:
+
+* Say hi back to you
+* Tell you the temperature in San Antonio
+* Tell you a joke
+* Can open and search on limited websites
