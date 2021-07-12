@@ -1,0 +1,10 @@
+================List of Requirements:================
+
+* Make a todo list
+
+* Make a list of things (grocery list)
+
+* Set up a timer
+
+* open a webpage on voice command
+    - search by voice
